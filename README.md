@@ -3,7 +3,8 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando React.js
 - 📫 Me contate através do email: jvictor.jacques13@gmail.com
-- 
+
+
 <div align="center">
   <a href="https://github.com/joaojacques13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoJacques13&show_icons=true&theme=onedark"/>
