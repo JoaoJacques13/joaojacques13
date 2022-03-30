@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo! Eu sou o João 🤙
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React.js
+- 🔭 Sou desenvolvedor Fullstack Júnior focado em Stacks de Javascript Node e Vue.js
+- 🌱 A cada dia aprimorando meu conhecimento com os cursos da Rocketseat e documentações
 - 📫 Me contate através do email: jvictor.jacques13@gmail.com
 
 
