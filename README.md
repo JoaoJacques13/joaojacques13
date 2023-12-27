@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo! Eu sou o João 🤙
 
-- 🔭 Sou desenvolvedor Fullstack Júnior focado em Stacks de Javascript Node e Vue.js
+- 🔭 Sou desenvolvedor Fullstack focado em Stacks de Javascript como Node e Vue.js, e PHP
 - 🌱 A cada dia aprimorando meu conhecimento com os cursos da Rocketseat e documentações
 - 📫 Me contate através do email: jvictor.jacques13@gmail.com
 
