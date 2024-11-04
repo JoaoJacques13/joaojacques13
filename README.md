@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo! Eu sou o João 🤙
 
-- 🔭 Sou desenvolvedor Fullstack focado em Stacks de Javascript como Node, Angular, Vue.js e PHP
+- 🔭 Sou desenvolvedor Backend focado em Stacks de PHP com Laravel, Javascript com Node e sei me virar no front com Angular e Vue.js
 - 🌱 A cada dia aprimorando meus conhecimentos
 - 📫 Me contate através do email: jvictor.jacques13@gmail.com
 
